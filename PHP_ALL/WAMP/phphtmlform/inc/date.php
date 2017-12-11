@@ -1,0 +1,1 @@
+<p>&copy; <?php echo date("Y/M/D"); ?> Training with live project</p>

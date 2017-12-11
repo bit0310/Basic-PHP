@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+	<employee>
+	  <name>S.M. Sofiqul</name>
+	  <skill>java, php</skill>
+	  <company>IDB</company>
+	</employee>
+	
+	<employee>
+	  <name>sazzad</name>
+	  <skill>jquery</skill>
+	  <company>IDB</company>
+	</employee>
+	
+	
+ 
+</person> 

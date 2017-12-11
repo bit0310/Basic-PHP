@@ -1,0 +1,5 @@
+01.Training with live project.
+02.Include(page load hoi kinku error dekhai) and Require(fatal error genetare kore ar page ar load hoi na)
+03.Include(page load hoi kinku error dekhai) and Require(fatal error genetare kore ar page ar load hoi na)
+04.Include(page load hoi kinku error dekhai) and Require(fatal error genetare kore ar page ar load hoi na)
+05.Include(page load hoi kinku error dekhai) and Require(fatal error genetare kore ar page ar load hoi na)
